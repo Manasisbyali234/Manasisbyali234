@@ -1,4 +1,7 @@
-[![MasterHead](https://img.freepik.com/premium-photo/anime-girl-coding-night-with-city-view_1282444-140690.jpg)](https://rishavchanda.io)
+[![MasterHead]<a href="https://rishavchanda.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.freepik.com/premium-photo/anime-girl-coding-night-with-city-view_1282444-140690.jpg" alt="Anime Girl Coding" style="width: 100%; height: auto; display: block;">
+</a>
+
 <h1 align="center">Hi 👋, I'm Manasi</h1>
 <h3 align="center">A passionate frontend and Python developer from India</h3>
 
