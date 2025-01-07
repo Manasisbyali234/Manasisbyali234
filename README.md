@@ -10,7 +10,13 @@
 
 
 <!-- You can replace the broken or incomplete image URLs above with valid URLs to display your banner and coding GIF/image properly -->
+- 👨‍💻 All of my projects are available at [https://portfolio-new-zeta-seven.vercel.app/](https://portfolio-new-zeta-seven.vercel.app/)
 
+- 📫 How to reach me **manasibyalid29@gmail.com**
+
+- 📄 Know about my experiences [https://portfolio-new-zeta-seven.vercel.app/](https://portfolio-new-zeta-seven.vercel.app/)
+
+- ⚡ Fun fact **This is GitHub's mascot!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasisbyali234&label=Profile%20views&color=0e75b6&style=flat" alt="manasisbyali234" /> </p>
 
