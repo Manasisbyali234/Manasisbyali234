@@ -22,13 +22,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasisbyali234" alt="manasisbyali234" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-new-zeta-seven.vercel.app/](https://portfolio-new-zeta-seven.vercel.app/)
-
-- 📫 How to reach me **manasibyalid29@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-new-zeta-seven.vercel.app/](https://portfolio-new-zeta-seven.vercel.app/)
-
-- ⚡ Fun fact **This is GitHub's mascot!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
