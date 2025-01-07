@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/premium-photo/anime-girl-coding-night-with-city-view_1282444-140690.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manasi</h1>
 <h3 align="center">A passionate frontend and Python developer from India</h3>
 
