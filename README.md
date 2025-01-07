@@ -10,7 +10,7 @@
 
 
 <!-- You can replace the broken or incomplete image URLs above with valid URLs to display your banner and coding GIF/image properly -->
-- 👨‍💻 All of my projects are available at [https://portfolio-new-zeta-seven.vercel.app/](https://portfolio-new-zeta-seven.vercel.app/)
+- 🌱 I’m currently learning **Frame works , Python**
 
 - 📫 How to reach me **manasibyalid29@gmail.com**
 
