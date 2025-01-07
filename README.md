@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9f2232b8-03b6-4b83-9ffa-76f8f8eca0d0)![image](https://github.com/user-attachments/assets/ebd69d50-902a-41df-9e3a-313f20c9550c)![image](https://github.com/user-attachments/assets/2a9cc164-dc82-4a77-a540-a1b217a193c3)<h1 align="center">Hi 👋, I'm Manasi</h1>
+<h1 align="center">Hi 👋, I'm Manasi</h1>
 <a href="https://rishavchanda.io" target="_blank" rel="noopener noreferrer">
     <img src="https://img.freepik.com/premium-photo/anime-girl-coding-night-with-city-view_1282444-140690.jpg" alt="Anime Girl Coding" style="width: 100%; height: auto; display: block;">
 </a>
