@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate frontend and Python developer from India</h3>
 
-<img align="middle" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="middle" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <!-- You can replace the broken or incomplete image URLs above with valid URLs to display your banner and coding GIF/image properly -->
