@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manasi</h1>
 <a href="https://rishavchanda.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.freepik.com/premium-photo/anime-girl-coding-night-with-city-view_1282444-140690.jpg" alt="Anime Girl Coding" style="width: 80%; height: auto; display: block;">
+    <img src="https://img.freepik.com/premium-photo/anime-girl-coding-night-with-city-view_1282444-140690.jpg" alt="Anime Girl Coding" style="width: 90%; height: auto; display: block;">
 </a>
 
 
 <h3 align="center">A passionate frontend and Python developer from India</h3>
 
-<img align="middle" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="middle" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <!-- You can replace the broken or incomplete image URLs above with valid URLs to display your banner and coding GIF/image properly -->
