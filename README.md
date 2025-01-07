@@ -1,7 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manasi</h1>
-<h3 align="center">A passionate frontend developer and Python developer from India</h3>
+<h3 align="center">A passionate frontend and Python developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
+<!-- You can replace the broken or incomplete image URLs above with valid URLs to display your banner and coding GIF/image properly -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasisbyali234&label=Profile%20views&color=0e75b6&style=flat" alt="manasisbyali234" /> </p>
 
