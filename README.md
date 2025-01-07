@@ -23,7 +23,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasisbyali234" alt="manasisbyali234" /></a> </p>
 
-<img align="left" alt="Coding" width="25" src="https://img.freepik.com/premium-photo/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_839035-979788.jpg?ga=GA1.1.966027997.1736250977&semt=ais_hybrid">
+<img align="left" alt="Coding" width="40" src="https://img.freepik.com/premium-photo/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_839035-979788.jpg?ga=GA1.1.966027997.1736250977&semt=ais_hybrid"> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
